@@ -42,3 +42,22 @@ Es hora comenzar a desarrollar nuestro proyecto web, comenzaremos con HTML.
 - Tutorial de HTML por la w3school: https://www.w3schools.com/html/default.asp
 - Curso de HTML en SoloLearn: https://www.sololearn.com/learning/1014
 - Curso de HTML en CodeAcademic (Curso en inglés): https://www.codecademy.com/learn/learn-html
+
+### Reto 4
+ 
+Es hora de enchular nuestra página, para eso usaremos CSS.
+
+CSS **no** es un lenguaje de programación, es un lenguaje de estilos en cascada. _CSS_ significa **C**ascading **S**tyle **S**heets o Hojas de Estilos en Cascada.
+
+1. Crea un archivo `style.css`.
+2. Vincula ese archivo con todos los documentos HTML usando la etiqueta `<link></link>`.
+3. Agrega estilos generales (cambiar fondo, tamaño del texto, color, etc...)
+4. Te recomendamos separar los estilos de tu página por modulos. Para esto necesitas conocer la propiedad `@import`.
+5. Sube tus cambios a GitHub.
+
+**Material de apoyo:**
+- ¿Qué es CSS?: https://lenguajecss.com/css/introduccion/que-es-css/
+- Curso de CSS en YouTube: https://youtu.be/W6GTDfrWjXs
+- Curso de CSS Practico en YouTube: https://youtu.be/Q2imkhmhOFo
+
+_Recuerda que puedes investigar más por tu cuenta, sorprende al equipo de PuzzlerDev_
