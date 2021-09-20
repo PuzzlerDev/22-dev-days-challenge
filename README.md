@@ -60,6 +60,7 @@ CSS **no** es un lenguaje de programación, es un lenguaje de estilos en cascada
 
 **Material de apoyo:**
 - ¿Qué es CSS?: [https://lenguajecss.com/css/introduccion/que-es-css/](https://lenguajecss.com/css/introduccion/que-es-css/)
+- Guia de inicio en CSS: [https://developer.mozilla.org/es/](https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/CSS_basics)
 - Curso de CSS en YouTube: [https://youtu.be/W6GTDfrWjXs](https://youtu.be/W6GTDfrWjXs)
 - Curso de CSS Practico en YouTube: [https://youtu.be/Q2imkhmhOFo](https://youtu.be/Q2imkhmhOFo)
 - Curso de CSS en SoloLearn: [https://www.sololearn.com/learning/1023](https://www.sololearn.com/learning/1023)
