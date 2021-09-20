@@ -24,3 +24,21 @@ Vamos a crear un pequeño proyecto usando Git y GitHub. Además usaremos Markdow
 2. Documentacion oficial de Git: [https://git-scm.com/doc](https://git-scm.com/doc)
 3. Cursos oficiales de GitHub: [https://lab.github.com/](https://lab.github.com/)
 4. Tutorial de Markdown: [https://youtu.be/oxaH9CFpeEE](https://youtu.be/oxaH9CFpeEE)
+
+### Reto 3
+
+Es hora comenzar a desarrollar nuestro proyecto web, comenzaremos con HTML.
+
+1. Crea un archivo `index.html`.
+2. Agrega contenido al archivo principal.
+3. Crea 2 documentos HTML más con el nombre que quieras.
+4. Agrega contenido a estos 2 documentos HTML.
+5. Enlaza las 3 páginas utilizando la etiqueta `<a></a>`.
+6. Sube tus cambios a GitHub.
+
+**Aquí tienes algunos tutoriales, aunque sería interesante que investigues más por tu cuenta:**
+ 
+- Tutorial en YouTube del YouTuber Fatz de HTML: https://youtu.be/rbuYtrNUxg4
+- Tutorial de HTML por la w3school: https://www.w3schools.com/html/default.asp
+- Curso de HTML en SoloLearn: https://www.sololearn.com/learning/1014
+- Curso de HTML en CodeAcademic (Curso en inglés): https://www.codecademy.com/learn/learn-html
