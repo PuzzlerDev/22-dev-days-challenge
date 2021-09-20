@@ -21,9 +21,12 @@ Vamos a crear un pequeño proyecto usando Git y GitHub. Además usaremos Markdow
 1. Tutoriales de Git y GitHub:
    - Vídeo de EDTeam: [https://youtu.be/jGehuhFhtnE](https://youtu.be/jGehuhFhtnE)
    - Vídeo de Fazt: [https://youtu.be/HiXLkL42tMU](https://youtu.be/HiXLkL42tMU)
-2. Documentacion oficial de Git: [https://git-scm.com/doc](https://git-scm.com/doc)
-3. Cursos oficiales de GitHub: [https://lab.github.com/](https://lab.github.com/)
-4. Tutorial de Markdown: [https://youtu.be/oxaH9CFpeEE](https://youtu.be/oxaH9CFpeEE)
+2. Juego interactivo para aprender Git: [https://learngitbranching.js.org/](https://learngitbranching.js.org/)
+3. Documentacion oficial de Git: [https://git-scm.com/doc](https://git-scm.com/doc)
+4. Cursos oficiales de GitHub: [https://lab.github.com/](https://lab.github.com/)
+5. Tutorial de Markdown: [https://youtu.be/oxaH9CFpeEE](https://youtu.be/oxaH9CFpeEE)
+6. Editor Markdown Online: [https://dillinger.io/](https://dillinger.io/)
+7. Editor Markdown tipo Word: [https://markdown-editor.github.io/](https://markdown-editor.github.io/)
 
 ### Reto 3
 
@@ -38,10 +41,10 @@ Es hora comenzar a desarrollar nuestro proyecto web, comenzaremos con HTML.
 
 **Aquí tienes algunos tutoriales, aunque sería interesante que investigues más por tu cuenta:**
  
-- Tutorial en YouTube del YouTuber Fatz de HTML: https://youtu.be/rbuYtrNUxg4
-- Tutorial de HTML por la w3school: https://www.w3schools.com/html/default.asp
-- Curso de HTML en SoloLearn: https://www.sololearn.com/learning/1014
-- Curso de HTML en CodeAcademic (Curso en inglés): https://www.codecademy.com/learn/learn-html
+- Tutorial en YouTube del YouTuber Fatz de HTML: [https://youtu.be/rbuYtrNUxg4](https://youtu.be/rbuYtrNUxg4)
+- Tutorial de HTML por la w3school: [https://www.w3schools.com/html/default.asp](https://www.w3schools.com/html/default.asp)
+- Curso de HTML en SoloLearn: [https://www.sololearn.com/learning/1014](https://www.sololearn.com/learning/1014)
+- Curso de HTML en CodeAcademic (Curso en inglés): [https://www.codecademy.com/learn/learn-html](https://www.codecademy.com/learn/learn-html)
 
 ### Reto 4
  
@@ -56,8 +59,10 @@ CSS **no** es un lenguaje de programación, es un lenguaje de estilos en cascada
 5. Sube tus cambios a GitHub.
 
 **Material de apoyo:**
-- ¿Qué es CSS?: https://lenguajecss.com/css/introduccion/que-es-css/
-- Curso de CSS en YouTube: https://youtu.be/W6GTDfrWjXs
-- Curso de CSS Practico en YouTube: https://youtu.be/Q2imkhmhOFo
+- ¿Qué es CSS?: [https://lenguajecss.com/css/introduccion/que-es-css/](https://lenguajecss.com/css/introduccion/que-es-css/)
+- Curso de CSS en YouTube: [https://youtu.be/W6GTDfrWjXs](https://youtu.be/W6GTDfrWjXs)
+- Curso de CSS Practico en YouTube: [https://youtu.be/Q2imkhmhOFo](https://youtu.be/Q2imkhmhOFo)
+- Curso de CSS en SoloLearn: [https://www.sololearn.com/learning/1023](https://www.sololearn.com/learning/1023)
+- Tutorial de Css por la w3school: [https://www.w3schools.com/css/default.asp](https://www.w3schools.com/css/default.asp)
 
 _Recuerda que puedes investigar más por tu cuenta, sorprende al equipo de PuzzlerDev_
